@@ -1,5 +1,3 @@
-# Week 1
-
 The goals for week 1 are:
 
 1. Discuss course structure and expectations
